@@ -1,4 +1,14 @@
-[  
+[    
+	{  
+	"name":"QPOOL.CN",
+	"stats":"http://pirl.qpool.cn/api/stats",
+	"blocks":"http://pirl.qpool.cn/api/blocks",
+	"payments":"http://pirl.qpool.cn/api/payments",
+	"accounts":"http://pirl.qpool.cn/api/accounts",
+  	"miners":"http://pirl.qpool.cn/api/miners",
+	"url":"pirl.qpool.cn", 
+        "notify":""
+    },
     {  
 	"name":"MINERPOOL.NET",
 	"stats":"http://pirl.minerpool.net/api/stats",
